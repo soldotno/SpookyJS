@@ -17,7 +17,8 @@
     "tiny-jsonrpc": "0.2.x",
     "carrier": "0.1.x",
     "duplexer": "0.0.x",
-    "readable-stream": "~1.0.2"
+    "readable-stream": "~1.0.2",
+    "casperjs": "git+ssh://git@github.com/soldotno/casperjs.git#master"
   },
   "devDependencies": {
     "mocha": "1.3.x",
