@@ -1,5 +1,7 @@
 # SpookyJS
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/soldotno/SpookyJS.svg)](https://greenkeeper.io/)
+
 Drive [CasperJS](http://casperjs.org/) from Node.js.
 
 **Note**: If you are simply looking to control Phantom from Node and don't need
